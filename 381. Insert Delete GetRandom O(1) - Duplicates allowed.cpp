@@ -29,3 +29,5 @@ public:
 };
 //https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 //https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/discuss/85541/C%2B%2B-128m-Solution-Real-O(1)-Solution
+// 1->0->0
+// 0->1->2
